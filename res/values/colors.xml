@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seek_bar_thumb">#ffbe29</color>
+    <color name="seek_bar_background">#fac227</color>
+    <color name="seek_bar_font">#ffffff</color>
+    <color name="info_bar_font">#c3c8cc</color>
+    <color name="info_bar_background">#000000</color>
+
+    <color name="dialog_background">#ffffff</color>
+    <color name="dialog_separator">#c3c8cc</color>
+    <color name="dialog_button_text">#157efb</color>
+    <color name="dialog_content">#000000</color>
+
+</resources>

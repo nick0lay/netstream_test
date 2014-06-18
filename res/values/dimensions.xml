@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="seek_bar_text_size">22sp</dimen>
+    <dimen name="seek_bar_dy">11dp</dimen>
+    <dimen name="seek_bar_text">10dp</dimen>
+</resources>

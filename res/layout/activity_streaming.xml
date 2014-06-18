@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <fragment class="ch.netstream.ui.fragments.StreamingFragment"
+              android:id="@+id/fragment_streaming"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"/>
+    <fragment class="ch.netstream.ui.fragments.BottomBarFragment"
+              android:id="@+id/fragment_bottom_action_bar"
+              android:layout_width="match_parent"
+              android:layout_height="50dp"
+              android:layout_gravity="bottom"/>
+</FrameLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">netstream</string>
+
+    <!-- Dialogs -->
+    <string name="btn_dialog_cancel">Cancel</string>
+    <string name="btn_dialog_start">Start</string>
+    <string name="dialog_content">Dialog</string>
+</resources>
